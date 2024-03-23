@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 .container { 
   height: 200px;
   position: relative;
-  border: 3px solid green; 
+  border: 3px solid black; 
 }
 
 .center {
@@ -23,7 +22,7 @@
  <div class="container">
   <div class="center">
     <p></p>
-    <p>Deaths In The World</p>
+    <p></p>
     <button onclick="startCounting()">Start</button>
     <script>
         let count = 0;
