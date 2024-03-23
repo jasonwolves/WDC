@@ -12,7 +12,7 @@ h2 {text-align: center;}
 }
 .center {
   margin: 0;
-  position: absolute;
+  position: center;
   top: 50%;
   left: 50%;
 -ms-transform: translate(-50%, -50%);
