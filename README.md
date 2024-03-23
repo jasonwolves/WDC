@@ -8,11 +8,12 @@ h2 {text-align: center;}
     body {
 .container { 
   height: 200px;
-  position: center; 
+  position: relative;
+  border: 3px solid black; 
 }
 .center {
   margin: 0;
-  position: center;
+  position: absolute;
   top: 50%;
   left: 50%;
 -ms-transform: translate(-50%, -50%);
