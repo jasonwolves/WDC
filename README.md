@@ -9,14 +9,14 @@ h2 {text-align: center;}
     body {
 .container { 
   height: 200px;
-  position: relative; 
+  position: center; 
 }
 .center {
   margin: 0;
   position: absolute;
   top: 50%;
   left: 50%;
-  -ms-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
     </style>
